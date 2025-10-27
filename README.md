@@ -1,17 +1,31 @@
+# Romário Costa
+**Desenvolvedor Web | Administrador de Servidores Linux**
+---
 
-👋 Olá, eu sou o Romário Costa
+### Resumo Profissional
 
-💻 Desenvolvedor Web | Administrador de Servidores Linux | Estudante de Ciências da Computação
+Profissional com experiência consolidada em desenvolvimento web e administração de infraestrutura Linux, atualmente cursando **Ciências da Computação**. Minha formação técnica em **Redes de Computadores** oferece uma base sólida para criar e manter soluções web performáticas e seguras, alinhando desenvolvimento e operações.
 
-🎯 Tenho formação em Redes de Computadores e experiência prática em infraestrutura, servidores Linux e desenvolvimento web.
+### Experiência e Projetos
 
-🚀 Desde 2019 atuo como freelancer, desenvolvendo sites e sistemas com HTML5, CSS3, JavaScript e WordPress, além de gerenciar servidores VPS e automatizar tarefas com Shell Script.
+Hoje atuo como freelancer com foco no desenvolvimento de sites, sistemas responsivos e na gestão completa de servidores VPS. Minhas principais competências incluem:
 
-🧠 Estou em constante evolução, com foco em DevOps, Front-end e Cloud Computing.
+* **Desenvolvimento:** Criação de soluções web com HTML5, CSS3, JavaScript e WordPress.
+* **Infraestrutura:** Administração de servidores Linux (Apache, MySQL) e otimização de performance.
+* **Automação:** Eficiência operacional através da automação de tarefas e rotinas de backup com Shell Script.
 
-🔧 Stack principal:
-HTML5 • CSS3 • JavaScript • WordPress • Linux • Apache • MySQL • Shell Script • Git
+### Foco e Objetivos
 
-🌐 Conecte-se comigo:
-LinkedIn
- | E-mail
+Busco oportunidades para aplicar minha experiência híbrida e continuar meu aprimoramento em **DevOps**, **Front-end** e **Cloud Computing**.
+
+### Principais Tecnologias
+
+* **Front-end:** HTML5, CSS3, JavaScript
+* **CMS:** WordPress
+* **Back-end & Scripting:** Shell Script, MySQL
+* **Infraestrutura & DevOps:** Linux, Apache, Git
+
+### Contato
+
+* **LinkedIn:** https://www.linkedin.com/in/romario-costa-345664207/
+* **E-mail:** nc.romario@gmail.com
