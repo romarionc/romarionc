@@ -1,5 +1,5 @@
 # Romário Costa
-**Desenvolvedor Web | Administrador de Servidores Linux**
+**Desenvolvedor Web | Front-end | Administrador de Servidores Linux**
 ---
 
 ### Resumo Profissional
