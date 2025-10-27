@@ -27,5 +27,5 @@ Busco oportunidades para aplicar minha experiência híbrida e continuar meu apr
 
 ### Contato
 
-* **LinkedIn:** https://www.linkedin.com/in/romario-costa-345664207/
+* **LinkedIn:** https://www.linkedin.com/in/romario-costa-dev/
 * **E-mail:** nc.romario@gmail.com
