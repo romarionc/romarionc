@@ -4,7 +4,7 @@
 
 ### Resumo Profissional
 
-Profissional com experiência consolidada em desenvolvimento web e administração de infraestrutura Linux, atualmente cursando **Ciências da Computação**. Minha formação técnica em **Redes de Computadores** oferece uma base sólida para criar e manter soluções web performáticas e seguras, alinhando desenvolvimento e operações.
+Profissional com experiência em desenvolvimento web e administração de infraestrutura Linux, atualmente cursando **Ciências da Computação**. Minha formação técnica em **Redes de Computadores** oferece uma base sólida para criar e manter soluções web performáticas e seguras, alinhando desenvolvimento e operações.
 
 ### Experiência e Projetos
 
