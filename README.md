@@ -20,12 +20,15 @@ Busco oportunidades para aplicar minha experiência híbrida e continuar meu apr
 
 ### Principais Tecnologias
 
-* **Front-end:** HTML5, CSS3, JavaScript
-* **CMS:** WordPress
-* **Back-end & Scripting:** Shell Script, MySQL
-* **Infraestrutura & DevOps:** Linux, Apache, Git
+* **Cloud & DevOps:** AWS (EC2, S3, IAM, VPC), Git, GitHub Actions (CI/CD).
+* **Infraestrutura:** Linux (Ubuntu/CentOS), Shell Script, Docker (em aprendizado), Servidores Web (Apache/Nginx).
+* **Banco de Dados:** MySQL, RDS (AWS).
+* **Front-end:** HTML5, CSS3, JavaScript.
+* **CMS:** WordPress.
+* **Back-end & Scripting:** Shell Script, MySQL.
+  
 
 ### Contato
 
 * **LinkedIn:** https://www.linkedin.com/in/romario-costa-dev/
-* **E-mail:** nc.romario@gmail.com
+* **E-mail:** romario.nc@hotmail.com
