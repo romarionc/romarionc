@@ -1,5 +1,5 @@
 # Romário Costa
-**Desenvolvedor Web | Front-end | Administrador de Servidores Linux**
+**Infraestrutura de TI | Cloud Computing (AWS) | Administrador de Servidores Linux**
 ---
 
 ### Resumo Profissional
